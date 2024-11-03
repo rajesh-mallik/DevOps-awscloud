@@ -1,1 +1,14 @@
+Loadbalancer are three type first is classic loadbalancer, application loadbalancer, network loadbalancer, Gateway loadbalancer
+
+|||Application loadbalancer|||
+An Application Load Balancer (ALB) is a type of load balancer in AWS that operates at the application layer (layer 7) of the OSI model.1 
+This means it can inspect the content of requests and route traffic based on various criteria, such as:
+
+HTTP headers
+Host header
+Path
+Query string parameters
+Request body
+
+|||STEPS|||
 
